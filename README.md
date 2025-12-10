@@ -1,8 +1,10 @@
 <h1 align="left">Hello there 👋</h1>
+<img align="right" style="border-radius: 50px; width: fit-content;" src="https://1.gravatar.com/avatar/1d66c03ddfeb0a16152b0c06a37637ba149d3f861fe7d2db6e981b5cf2e5631a?s=256&amp;d=initials" width="104" height="104" alt="Lou">
 
 ###
 
-<p align="left">My name is Lou, and I love computers !</p>
+<p align="left" style="width: fit-content;">Hey, my name is Lou</p>
+<p align="left" style="width: fit-content;">and I like computers <3</p>
 
 ###
 
@@ -43,3 +45,4 @@
 </div>
 
 ###
+
